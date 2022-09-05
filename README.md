@@ -1,6 +1,18 @@
-**This repository provides names to be used for Giant Swarm installations.**
+# Installation Name Candidates
+
+**This repository provides names to be used for new Giant Swarm installations.**
 
 **Note:** There is no guarantee that the names provided here are actually still available. Giant Swarm staff must run additional checks to ensure that a name is unused.
+
+## What is an installation
+
+A Giant Swarm installation is the combination of a management cluster, bastion hosts, and some more components. Depending on your viewpoint, you may or may not count workload clusters in as part of the installation.
+
+## What is an installation name
+
+The installation name is a unique identifier for the installation. It becomes part of the DNS zone for the installation.
+
+The installation name cannot be changed throughout the lifecycle of an installation.
 
 ## How to claim a name
 
