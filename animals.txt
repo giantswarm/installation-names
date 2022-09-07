@@ -128,7 +128,6 @@ okapi
 olingo
 opossum
 ostrich
-otter
 ovine
 owlet
 oyster
@@ -208,7 +207,6 @@ termite
 terzel
 thrush
 tiercel
-tiger
 toadlet
 toucan
 tower
@@ -224,7 +222,6 @@ tuxedo
 vaccine
 velvet
 venison
-viper
 vulture
 waddle
 wallaby
