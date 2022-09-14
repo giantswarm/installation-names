@@ -52,7 +52,6 @@ gadoid
 gaggle
 gaurine
 gazelle
-gecko
 genet
 gerbil
 glaring
