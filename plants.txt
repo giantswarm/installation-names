@@ -63,7 +63,6 @@ peach
 peanut
 poplar
 poppy
-potato
 ragweed
 ragwort
 redbud
