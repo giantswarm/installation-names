@@ -35,7 +35,6 @@ eland
 elapine
 elver
 equine
-falcon
 ferret
 filly
 finch
