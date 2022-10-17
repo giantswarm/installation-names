@@ -18,7 +18,7 @@ The installation name cannot be changed throughout the lifecycle of an installat
 
 1. Look for a name in one of the `.txt` files.
 
-2. Create a pull request that removes the name you want to claim from the list. Please use the title format `Claim installation name 'NAME'` where `NAME` is the name you claim.
+2. Create a pull request that removes the name you want to claim from the list. Do not choose a name that starts with the same letter as your company (for example "ACME" shouldn't choose "Aviator"). Please use the title format `Claim installation name 'NAME'` where `NAME` is the name you claim.
 
 3. Get approval from a repository maintainer.
 
