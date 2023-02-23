@@ -129,7 +129,6 @@ ovine
 owlet
 oyster
 panda
-panther
 parade
 parrot
 party
