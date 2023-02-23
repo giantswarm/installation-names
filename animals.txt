@@ -96,7 +96,6 @@ lapwing
 larva
 lechwe
 lemur
-leopard
 litter
 lizard
 llama
