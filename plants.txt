@@ -31,7 +31,6 @@ eytelia
 fennel
 ferns
 garget
-garlic
 gutweed
 haldi
 hogweed
