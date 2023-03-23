@@ -21,7 +21,6 @@ corvine
 coyote
 crane
 cricket
-cuckoo
 curlew
 dingo
 dogfish
