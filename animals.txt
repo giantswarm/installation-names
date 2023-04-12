@@ -54,7 +54,6 @@ genet
 gerbil
 glaring
 glean
-goose
 goshawk
 grist
 grouse
