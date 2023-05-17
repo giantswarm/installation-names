@@ -47,7 +47,6 @@ flutter
 fossa
 fuzzy
 gadoid
-gaggle
 gaurine
 gazelle
 genet
