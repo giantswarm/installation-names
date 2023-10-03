@@ -2,7 +2,6 @@ alder
 almond
 apricot
 azolla
-bamboo
 banana
 baobab
 beech
