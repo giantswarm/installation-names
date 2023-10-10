@@ -178,7 +178,6 @@ slither
 sloth
 smack
 smuth
-snail
 snake
 sneak
 soldier
