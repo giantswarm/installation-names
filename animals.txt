@@ -222,6 +222,5 @@ wedge
 whale
 whelp
 whoop
-wombat
 wrack
 zebra
