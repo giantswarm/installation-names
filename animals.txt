@@ -50,7 +50,6 @@ gadoid
 gaurine
 genet
 glaring
-glean
 grist
 guanaco
 hamster
