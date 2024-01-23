@@ -48,7 +48,6 @@ fossa
 fuzzy
 gadoid
 gaurine
-gazelle
 genet
 glaring
 glean
