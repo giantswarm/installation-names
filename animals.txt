@@ -207,7 +207,6 @@ turkey
 turtle
 tuxedo
 vaccine
-velvet
 venison
 vulture
 waddle
