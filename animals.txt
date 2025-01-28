@@ -36,7 +36,6 @@ elver
 equine
 ferret
 filly
-finch
 flake
 flapper
 flick
