@@ -34,7 +34,6 @@ eland
 elapine
 elver
 equine
-ferret
 filly
 flake
 flapper
