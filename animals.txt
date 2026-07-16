@@ -32,7 +32,6 @@ dunlin
 echidna
 eland
 elapine
-elver
 equine
 filly
 flake
